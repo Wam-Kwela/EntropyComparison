@@ -1,0 +1,14 @@
+C:\Users\Shiya\source\repos\EntropyComparison\bin\Debug\net8.0\EntropyComparison.exe
+C:\Users\Shiya\source\repos\EntropyComparison\bin\Debug\net8.0\EntropyComparison.deps.json
+C:\Users\Shiya\source\repos\EntropyComparison\bin\Debug\net8.0\EntropyComparison.runtimeconfig.json
+C:\Users\Shiya\source\repos\EntropyComparison\bin\Debug\net8.0\EntropyComparison.dll
+C:\Users\Shiya\source\repos\EntropyComparison\bin\Debug\net8.0\EntropyComparison.pdb
+C:\Users\Shiya\source\repos\EntropyComparison\obj\Debug\net8.0\EntropyComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shiya\source\repos\EntropyComparison\obj\Debug\net8.0\EntropyComparison.AssemblyInfoInputs.cache
+C:\Users\Shiya\source\repos\EntropyComparison\obj\Debug\net8.0\EntropyComparison.AssemblyInfo.cs
+C:\Users\Shiya\source\repos\EntropyComparison\obj\Debug\net8.0\EntropyComparison.csproj.CoreCompileInputs.cache
+C:\Users\Shiya\source\repos\EntropyComparison\obj\Debug\net8.0\EntropyComparison.dll
+C:\Users\Shiya\source\repos\EntropyComparison\obj\Debug\net8.0\refint\EntropyComparison.dll
+C:\Users\Shiya\source\repos\EntropyComparison\obj\Debug\net8.0\EntropyComparison.pdb
+C:\Users\Shiya\source\repos\EntropyComparison\obj\Debug\net8.0\EntropyComparison.genruntimeconfig.cache
+C:\Users\Shiya\source\repos\EntropyComparison\obj\Debug\net8.0\ref\EntropyComparison.dll
